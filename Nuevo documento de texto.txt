@@ -1,3 +1,4 @@
-Este es el segundo mensaje de prueba para evaluar el funcionamiento de Git y la relación con GitHub
-Segundo commit, cambio guardado
+Tercera edicion del mensaje de prueba
+observacion de como se muestran los cambios en github con cada commit realizado
 :D
+:>
